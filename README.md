@@ -36,7 +36,7 @@
 ---
 
 ### Organizations
--
+--
 Wetender : 칵테일 관련 정보 제공 웹 사이트 개발 (진행 중)
 * Spring, JPA, MariaDB, AWS
 * 역할 : 백엔드 
