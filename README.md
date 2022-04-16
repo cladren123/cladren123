@@ -1,16 +1,17 @@
 ## Introduce 👋
----
 * 백엔드 개발자를 목표로 하고 있습니다.
 * 팀 프로젝트, 스터디 모임을 통해 같이 성장하는 개발자를 추구하고 있습니다.
 
-### Contact
+
+## Contact
 * E - mail : cladren12332@naver.com
 * Blog     : https://cladren123.tistory.com/, https://blog.naver.com/cladren12332
 
 
-
-### Language and Tools
 ---
+
+
+## Language and Tools
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
@@ -34,25 +35,29 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 
-
-### Organizations
 ---
+
+
+## Organizations
 Wetender : 칵테일 관련 정보 제공 웹 사이트 개발 (진행 중)
 * Spring, JPA, MariaDB, AWS
 * 역할 : 백엔드 
 * 설명 : 칵테일에 관련된 레시피 정보 및 주류 정보 제공
 
 
-
-### Study
 ---
+
+
+## Study
 JAVA_STUDY
 * 설명 : 자바 알고리즘 스터디 참여
 
 
-
-### Repository
 ---
+
+
+## Repository
+
 
 
 <!--
