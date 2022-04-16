@@ -35,7 +35,25 @@
 
 ---
 
-###
+### Organizations
+-
+Wetender : 칵테일 관련 정보 제공 웹 사이트 개발 (진행 중)
+* Spring, JPA, MariaDB, AWS
+* 역할 : 백엔드 
+* 설명 : 칵테일에 관련된 레시피 정보 및 주류 정보 제공
+
+---
+
+### Study
+-
+JAVA_STUDY
+* 설명 : 자바 알고리즘 스터디 참여
+
+---
+
+### Repository
+-
+
 
 <!--
 **cladren123/cladren123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
