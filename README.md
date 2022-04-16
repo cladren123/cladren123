@@ -8,7 +8,7 @@
 * Blog     : https://cladren123.tistory.com/, https://blog.naver.com/cladren12332
 
 
----
+
 
 
 ## Language and Tools
@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 
----
+
 
 
 ## Organizations
@@ -45,7 +45,7 @@ Wetender : 칵테일 관련 정보 제공 웹 사이트 개발 (진행 중)
 * 설명 : 칵테일에 관련된 레시피 정보 및 주류 정보 제공
 
 
----
+
 
 
 ## Study
@@ -53,7 +53,7 @@ JAVA_STUDY
 * 설명 : 자바 알고리즘 스터디 참여
 
 
----
+
 
 
 ## Repository
