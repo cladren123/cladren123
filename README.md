@@ -49,7 +49,7 @@
 
 
 
-## Study
+## StudyGroup
 [JAVA_STUDY](https://github.com/cano721/JAVA_STUDY)
 * 설명 : 자바 알고리즘 스터디 참여
 
