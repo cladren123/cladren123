@@ -41,9 +41,10 @@
 
 ## Organizations
 [Wetender](https://github.com/we-tender) : 칵테일 관련 정보 제공 웹 사이트 개발 (진행 중)
-* 기술 : Spring, JPA, MariaDB, 
-* 역할 : 백엔드 
-* 설명 : 칵테일에 관련된 레시피 정보 및 주류 정보 제공
+> 기술 : Spring, JPA, MariaDB 
+> 역할 : 백엔드 
+> 설명 : 칵테일에 관련된 레시피 정보 및 주류 정보 제공
+
 
 <br>
 
