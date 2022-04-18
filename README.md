@@ -52,8 +52,8 @@
 
 ## StudyGroup
 [JAVA_STUDY](https://github.com/cano721/JAVA_STUDY) : 알고리즘 문제풀이 스터디
-> 돌아가면서 문제 출제 
-> 백준, 프로그래머스 위주로 문제풀이 (난이도 : 실버 ~ 플레티넘, Lv4 이하)
+> 돌아가면서 문제 출제 <br>
+> 백준, 프로그래머스 위주로 문제풀이 (난이도 : 실버 ~ 플레티넘, Lv4 이하) <br>
 > 매주 일요일 20시 논의 진행 (희망자)
 
 <br>
@@ -62,7 +62,7 @@
 
 ## Repository
 * Project <br>
-  * [AutoFarm](https://github.com/cladren123/AutoFarm) : 원격 조종, 자동화 기능이 탑재된 농장 관리 프로그램
+  * [AutoFarm](https://github.com/cladren123/AutoFarm) : 원격 조종, 자동화 기능이 탑재된 농장 관리 프로그램 <br>
     > 기술 : Django, AndroidStudio, RaspberryPi, MariaDB, MQTT, OkHttp <br>
     > 역할 : 웹, 안드로이드, 라즈베리파이 서버 통신 시스템 구축 <br>
              급수 급여, 조경 조절 등 원격 제어 기능 구현 <br>
@@ -71,7 +71,7 @@
 <br>             
              
 * Study <br>
-  * [javastudy](https://github.com/cladren123/javastudy)
+  * [javastudy](https://github.com/cladren123/javastudy) <br>
     > 자바 문법, 알고리즘 풀이, Spring 관련 정리
 
 
