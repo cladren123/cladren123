@@ -72,7 +72,7 @@
              
 * Study <br>
   * [javastudy](https://github.com/cladren123/javastudy) <br>
-    > 자바 문법, 알고리즘 풀이, Spring 관련 정리
+    > 자바 문법, 알고리즘 풀이(프로그래머스, 백준), Spring 관련 정리
 
   * [study](https://github.com/cladren123/study)
     > 파이썬 문법, 알고리즘 풀이, 개념정리
