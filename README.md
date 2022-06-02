@@ -6,7 +6,8 @@
 
 ## Contact
 * E - mail : cladren12332@naver.com
-* Blog     : https://cladren123.tistory.com/, https://blog.naver.com/cladren12332
+* Blog     : https://cladren123.tistory.com/
+             https://blog.naver.com/cladren12332
 
 <br>
 
