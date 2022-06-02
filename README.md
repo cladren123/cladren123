@@ -41,8 +41,19 @@
 
 ## Organizations
 [Wetender](https://github.com/we-tender) : 칵테일 관련 정보 제공 웹 사이트 개발, AWS 배포
-> 기술 : Spring, JPA, MariaDB, AWS <br>
-> 역할 : 백엔드 <br>
+> 기술 : Spring, JPA, MariaDB, Ajax, AWS  <br>
+> 역할 : 서버 구현 <br>
+>        Domain, DTO, Repository, Service, Controller <br>
+>        Validation, 연관관계 매핑(1:N, N:N)
+>        페이징 기능, 정렬 기능 구현
+>        
+>        화면 구성
+>        HTML, CSS, JavaScripy, Thymeleaf, Bootstrap
+>        Ajax 새로고침 없는 페이지 변환
+>        
+>        AWS 배포 
+>        EC2, RDS 
+>        Jar 파일로 빌드 후 EC2 환경에서 실행 
 > 설명 : 칵테일에 관련된 레시피 정보 및 주류 정보 제공
 
 
@@ -51,7 +62,7 @@
 
 
 ## StudyGroup
-[JAVA_STUDY](https://github.com/cano721/JAVA_STUDY) : 알고리즘 문제풀이 스터디
+[JAVA_STUDY2](https://github.com/cladren123/JAVA_STUDY2) : 알고리즘 문제풀이 스터디
 > 돌아가면서 문제 출제 <br>
 > 백준, 프로그래머스 위주로 문제풀이 (난이도 : 실버 ~ 플레티넘, Lv4 이하) <br>
 > 매주 일요일 20시 논의 진행 (희망자)
