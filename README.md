@@ -42,8 +42,8 @@
 
 ## Organizations
 [Wetender](https://github.com/we-tender) : 칵테일 관련 정보 제공 웹 사이트 개발, AWS 배포
-> 주제 : 칵테일에 관련된 레시피 정보 및 주류 정보 제공 <br>
-> 기술 : Spring, JPA, MariaDB, Ajax, AWS  <br>
+> 주제 : 칵테일에 관련된 레시피 정보 및 주류 정보 제공 <br> <br>
+> 기술 : Spring, JPA, MariaDB, Ajax, AWS..  <br> <br>
 > 역할 : 서버 구현 <br>
 >        Domain, DTO, Repository, Service, Controller <br>
 >        Validation, 연관관계 매핑(1:N, N:N) <br>
