@@ -62,7 +62,7 @@
 
 
 ## StudyGroup
-[JAVA_STUDY2](https://github.com/cladren123/JAVA_STUDY2) : 알고리즘 문제풀이 스터디
+[JAVA_STUDY2](https://github.com/cladren123/JAVA_STUDY2) : 자바 알고리즘 스터디 운영
 > 돌아가면서 문제 출제 <br>
 > 백준, 프로그래머스 위주로 문제풀이 (난이도 : 실버 ~ 플레티넘, Lv4 이하) <br>
 > 매주 일요일 20시 논의 진행 (희망자)
