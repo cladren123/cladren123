@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/Docker-2496EDF?style=for-the-badge&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=Kafka&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white"/></a>
 
 ### Collaboration
