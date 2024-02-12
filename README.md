@@ -11,8 +11,6 @@
 
 <br>
 
-
-
 ## Language and Tools
 
 ### Language
@@ -44,8 +42,14 @@
 <br>
 
 
+## About me 
+[simol study](https://github.com/simol-study)
+* CS 스터디 (Spring, DB, JAVA, Data Structure & Algorithm, OS, Network)
 
-## 
+
+
+
+
 
 
 
