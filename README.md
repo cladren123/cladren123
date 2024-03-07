@@ -41,8 +41,14 @@
 
 <br>
 
+## About me
 
-## About me 
+
+
+
+<br>
+
+## Study 
 [simol study](https://github.com/simol-study)
 * CS 스터디 (Spring, DB, JAVA, Data Structure & Algorithm, OS, Network)
 
