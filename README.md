@@ -50,8 +50,21 @@
 | '22. 07 ~ '23. 06   | 삼성 청년 SW 아카데미 (SSAFY)                   |      |            
 
 
+<br>
 
+## Project 
+[Promispot](https://github.com/promiSpot-Team)
+약속 장소 추천 프로젝트 
+<br>
 
+[Musicat](https://github.com/cladren123/musicat)
+24시간 AI DJ 음악 방송 프로젝트
+
+[Simollu](https://github.com/cladren123/simollu)
+웨이팅 관리 시스템 및 웨이팅 시간 동안 주변 활동거리 추천 프로젝트
+
+[OMS Project](https://github.com/cladren123/oms_project)
+주문 관리 시스템 개발 프로젝트 
 
 <br>
 
