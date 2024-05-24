@@ -53,18 +53,21 @@
 <br>
 
 ## Project 
-[Promispot](https://github.com/promiSpot-Team)
+[Promispot](https://github.com/promiSpot-Team) <br>
 약속 장소 추천 프로젝트 
 <br>
 
-[Musicat](https://github.com/cladren123/musicat)
+[Musicat](https://github.com/cladren123/musicat) <br>
 24시간 AI DJ 음악 방송 프로젝트
+<br>
 
-[Simollu](https://github.com/cladren123/simollu)
+[Simollu](https://github.com/cladren123/simollu) <br>
 웨이팅 관리 시스템 및 웨이팅 시간 동안 주변 활동거리 추천 프로젝트
+<br>
 
-[OMS Project](https://github.com/cladren123/oms_project)
+[OMS Project](https://github.com/cladren123/oms_project) <br>
 주문 관리 시스템 개발 프로젝트 
+<br>
 
 <br>
 
